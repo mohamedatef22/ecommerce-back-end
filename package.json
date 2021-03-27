@@ -1,0 +1,30 @@
+{
+  "name": "ecommerce-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohamedatef22/ecommerce-back-end.git"
+  },
+  "author": "Mohamed Atef",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohamedatef22/ecommerce-back-end/issues"
+  },
+  "homepage": "https://github.com/mohamedatef22/ecommerce-back-end#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "joi": "^17.4.0",
+    "jsonwebtoken": "^8.5.1",
+    "lodash": "^4.17.21",
+    "mongoose": "^5.12.0",
+    "mongoose-unique-validator": "^2.0.3",
+    "validator": "^13.5.2"
+  }
+}
