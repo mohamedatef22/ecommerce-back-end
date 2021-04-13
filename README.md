@@ -22,6 +22,6 @@
         "email": ,
         "phone": 
     }}
-    1. status (400) : {"error": {},"type": "database or shema"}
-    2. status (500) : { "error": {}}
+    2. status (400) : {"error": {},"type": "database or shema"}
+    3. status (500) : { "error": {}}
     
